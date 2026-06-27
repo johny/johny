@@ -17,7 +17,3 @@ I'm also a photographer and blogger. I love capturing the world through the lens
 
 - ✍️ **Blog:** [jankraus.net](https://jankraus.net/)
 - 💼 **Hire me:** [liberateweb.com](https://www.liberateweb.com/)
-
----
-
-⚡ Fun fact: I believe great code, like great photography, is all about clarity and composition.
